@@ -2434,7 +2434,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "my_footprints:Terminal_Block_5mm"
 			(at 161.29 97.79 0)
 			(effects
 				(font
@@ -2703,7 +2703,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "my_footprints:tact_switch_5mm"
 			(at 160.02 82.55 0)
 			(effects
 				(font
@@ -3796,7 +3796,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "my_footprints:slide_switch_2.54mm"
 			(at 160.02 74.93 0)
 			(effects
 				(font
